@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Hemin19
+- I am currently studying MSc in Data Analytics For Business program at Kedge Business School and looking for an Internship for my Final Year.
 - 👀 I’m interested in ...ML and AI
 - 🌱 I’m currently learning ...ML SQL
 - 💞️ I’m looking to collaborate on ...
